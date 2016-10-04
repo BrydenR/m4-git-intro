@@ -16,4 +16,5 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
     <li>Tea</li>
     <li>Eggs</li>
     <li>Bacon</li>
+    <li>Taost</li>
 </ol>
